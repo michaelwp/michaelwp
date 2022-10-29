@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelwp
+- 👋 Hi, I’m michael
 - 👀 I’m interested in software engineering
 - 📫 You can reach me at michael.wenceslaus[at]gmail.com
 
