@@ -1,5 +1,5 @@
 - 👋 Hi, I’m michael
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in computer science
 - 📫 You can reach me at michael.wenceslaus[at]gmail.com or me[at]michaelputong.com
 
 <!---
