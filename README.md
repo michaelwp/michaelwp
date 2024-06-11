@@ -4,6 +4,9 @@
 - my personal project :
   -  [goplay.dev](https://github.com/goplay-dev)
   -  [goblog.dev](https://github.com/goblog-dev)
+- my personal web :
+  -  [goplay.dev](https://goplay.dev)
+  -  [goblog.dev](https://goblog.dev)
 
 <!---
 michaelwp/michaelwp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
