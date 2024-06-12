@@ -1,4 +1,4 @@
-👋 Hi, I’m Michael
+👋 Hi, I’m ## Michael
 
 ### About Me
 I am a seasoned software engineer, specializing in full-stack development using React.js, Node.js, and Go. My diverse background includes roles in software development, IT support, and consulting.
