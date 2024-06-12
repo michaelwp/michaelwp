@@ -1,5 +1,7 @@
+👋 Hi, I’m Michael
+
 ### About Me
-- 👋 Hi, I’m michael, I am a seasoned software engineer, specializing in full-stack development using React.js, Node.js, and Go. My diverse background includes roles in software development, IT support, and consulting.
+I am a seasoned software engineer, specializing in full-stack development using React.js, Node.js, and Go. My diverse background includes roles in software development, IT support, and consulting.
     
 ### personal web :
   -  [goplay.dev](https://goplay.dev)
