@@ -8,6 +8,9 @@
   -  [goplay.dev](https://goplay.dev)
   -  [goblog.dev](https://goblog.dev)
 
+## Social Media
+- Linkedin: [Michael Wenceslaus](https://id.linkedin.com/in/michael-wenceslaus)
+
 <!---
 michaelwp/michaelwp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
