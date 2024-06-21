@@ -9,7 +9,6 @@ I am a seasoned software engineer, specializing in full-stack development using 
   - [michael putong](https://michaelputong.com)
  
 ### Contact
-- michael.wenceslaus[at]gmail.com
 - me[at]michaelputong.com
 
 ### Social Media
