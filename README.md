@@ -4,7 +4,6 @@
 I am a seasoned software engineer, specializing in full-stack development using React.js, Node.js, and Go. My diverse background includes roles in software development, IT support, and consulting.
     
 ### personal web :
-  - [goplay.dev](https://goplay.dev)
   - [goblog.dev](https://goblog.dev)
   - [michael putong](https://michaelputong.com)
  
