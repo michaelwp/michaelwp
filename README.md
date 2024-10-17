@@ -2,7 +2,6 @@
 
 ### About Me
 I am a software engineer, specializing in full-stack development using React.js, Node.js, and Go. 
-
 My diverse background includes roles in software development, IT support, and consulting.
 
 contact [me[at]michaelputong.com](mailto:me@michaelputong.com)
