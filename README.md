@@ -3,7 +3,7 @@
 ### About Me
 I am a seasoned software engineer, specializing in full-stack development using React.js, Node.js, and Go. My diverse background includes roles in software development, IT support, and consulting.
 
-contact me: [me[at]michaelputong.com](me@michaelputong.com)
+contact [me[at]michaelputong.com](me@michaelputong.com)
   
 <!---
 michaelwp/michaelwp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
