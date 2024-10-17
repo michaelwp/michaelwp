@@ -5,7 +5,6 @@ I am a seasoned software engineer, specializing in full-stack development using 
     
 ### personal web :
   - [goblog.dev](https://goblog.dev)
-  - [michael putong](https://michaelputong.com)
  
 ### Contact
 - me[at]michaelputong.com
